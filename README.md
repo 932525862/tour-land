@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # tourlend
 # tour-land
 # tour-land
+# tour-land
